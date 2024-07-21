@@ -1,0 +1,2 @@
+# EquityAnalyst
+Finkaro Equity Analyst 
